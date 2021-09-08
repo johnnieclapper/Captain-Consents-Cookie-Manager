@@ -7,6 +7,9 @@ Feel free to get in touch if you need any help or if you have suggestions ion im
 If you want to see the Captain Consents Cookie Manager in action please go to www.captainconsent.com.
 We'll make sure to always have the latest version stable update on the website.
 
+![image](https://user-images.githubusercontent.com/30041108/132487810-7a09107b-7e05-4c08-885a-9a485a97a08d.png)
+
+
 ## Tutorial
 
 ### basic banner js + css
