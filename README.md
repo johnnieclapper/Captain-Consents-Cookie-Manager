@@ -40,7 +40,7 @@ https://www.stechies.com/uncaught-typeerror-cannot-read-property-addeventlistene
 <br>
 
 ### Add Cookie Link to footer in your footer html:
-`<span id="ccPopupReveal">Cookies</span><br>`
+`<span id="ccPopupReveal">Cookies</span>`
 
 <br>
 
