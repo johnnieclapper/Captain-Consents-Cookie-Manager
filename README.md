@@ -1,4 +1,5 @@
-# Captain-Consents-Cookie-Manager - cookie consent pop-up made easy
+# Captain Consent's Cookie Manager 
+cookie consent pop-up made easy
 
 We are open sourcing the project step by step. It is not complete yet but will be in a few days. 
 Feel free to get in touch if you need any help or if you have suggestions ion improvements.
@@ -24,8 +25,8 @@ We'll make sure to always have the latest version stable update on the website.
 
 ### Load your js file just before the closing tag of </body>.
 
-**ATTENTION:** Load cookie-consent.js at the end of the body to avoid **"Uncaught TypeError cannot read property 'addeventlistener' of null"** issue. 
-In other words, load html first, then js.:
+**TROUBLESHOOTING:** Load cookie-consent.js at the end of the body to avoid **"Uncaught TypeError cannot read property 'addeventlistener' of null"** issue. 
+In other words, load html first, then js.: \
 https://www.stechies.com/uncaught-typeerror-cannot-read-property-addeventlistener-nu/
 
 <br>
