@@ -8,8 +8,7 @@ If you want to see the Captain Consents Cookie Manager in action please go to ww
 We'll make sure to always have the latest version stable update on the website.
 
 
-<img src="https://user-images.githubusercontent.com/30041108/132487810-7a09107b-7e05-4c08-885a-9a485a97a08d.png" width=50% height=50%>
-![image](https://user-images.githubusercontent.com/30041108/132487810-7a09107b-7e05-4c08-885a-9a485a97a08d.png)
+<a href="https://captainconsent.com" target="_blank" ><img src="https://user-images.githubusercontent.com/30041108/132487810-7a09107b-7e05-4c08-885a-9a485a97a08d.png" width=60% height=60%></a>
 
 ## Tutorial
 
