@@ -1,1 +1,47 @@
+<div id="ccPopup" class="overlay">
+	<div class="cc--popup">
+        <div class="header">
+            <span class="title">This site uses cookies to store information on your computer.</span>
+            <span class="description">Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.</span>
+            <span class="close">&times;</span>
+        </div>
+		<div class="content">
+            <div class="section">
+                <div>
+                    <span class="title">Necessary Cookies</span>
+                </div>
+                <p>Necessary cookies enable core functionality such as page navigation and access to secure areas. The website cannot function properly without these cookies, and can only be disabled by changing your browser preferences.</p>
+            </div>
+            <div class="section">
+                <div class="action">
+                    <span class="title">Analytical Cookies</span>
+                    <label class="switch" for="gdprAnalytics">
+                        <input type="checkbox" id="gdprAnalytics" />
+                        <div class="slider round"></div>
+                    </label>
+                </div>
+                <p>Analytical cookies help us to improve our website by collecting and reporting information on its usage.</p>
+            </div>
+            <div class="section">
+                <div class="action">
+                    <span class="title">Marketing cookies</span>
+                    <label class="switch" for="gdprMarketing">
+                        <input type="checkbox" id="gdprMarketing" />
+                        <div class="slider round"></div>
+                    </label>
+                </div>
+                <p>We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.</p>
+            </div>
 
+		</div>
+        <div class="cc--confirmation">
+            <span id="gdprConfirmBtn">Save</span>
+        </div>
+	</div>
+</div>
+
+<script>
+    document.querySelector('#ccPopup .header .close').addEventListener('click', function() {
+        document.querySelector('#ccPopup').classList.remove('active');
+    });
+</script>
